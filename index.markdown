@@ -6,7 +6,9 @@ layout: default
 title: "Suicide Around the year in San Francisco"
 ---
 
-# Welcome to My Page
+# Assignment 2
+
+## Calender Plot
 
 Here is some text about me and my project.
 
