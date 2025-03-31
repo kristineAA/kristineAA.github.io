@@ -11,6 +11,11 @@ title: "Suicide Around the year in San Francisco"
 ## Calender Plot
 
 Here is some text about me and my project.
+<figure>
+  <img src="assets/calendar_plot.png" alt="Alt text" />
+  <figcaption>Figure 1: This is the caption text.</figcaption>
+</figure>
+
 
 ![Calender Plot](assets/calendar_plot.png)
 
