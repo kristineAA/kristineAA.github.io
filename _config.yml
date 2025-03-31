@@ -21,7 +21,7 @@
 title: Home
 email: s204608@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  The is the website for assignment 2 in the DTU course Social Data Analysis and Visualization (02806).
+  This is the Git website for assignment 2 in the DTU course Social Data Analysis and Visualization (02806).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kristineAA
