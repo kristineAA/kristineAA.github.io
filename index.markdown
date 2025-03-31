@@ -12,9 +12,7 @@ title: "Suicide Around the year in San Francisco"
 
 Here is some text about me and my project.
 
-{% figure %}
-    ![Calender Plot](assets/calendar_plot.png)
-{% endfigure %}
+![Calender Plot](assets/calendar_plot.png)
 
 
 
